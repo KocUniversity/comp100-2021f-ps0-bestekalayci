@@ -1,2 +1,4 @@
-language = "python3" 
-run = "python main.py"
+language=python3
+run="python main.py"
+enter number x: 4
+enter number y: 5
